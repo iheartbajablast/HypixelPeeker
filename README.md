@@ -4,7 +4,7 @@ by [@retrodotdevv](https://www.github.com/retrodotdevv) and [@z0mbie_w0lf](https
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)![Discord](https://img.shields.io/discord/1156750728279367691?label=Discord&color=%23454FBF%20)
 
-This is a fancy little collection of tools for Hypixel players that allows them to view stats why is it made in Python. Because I felt like it.
+This is a fancy little collection of tools for Hypixel players that allows them to view stats. Why is it made in Python? Because I felt like it.
 
 ### Skyblock
 I have started on a Skyblock Peeker app.
