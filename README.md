@@ -23,7 +23,7 @@ I have started on a Skyblock Peeker app.
 ## Authors
 
 - [@retrodotdevv](https://www.github.com/retrodotdevv)
-- [@z0mbie_w0lf]((https://www.github.com/z0mbie_w0lf
+- [@z0mbie_w0lf](https://www.github.com/z0mbie_w0lf)
 
 ## Features
 
