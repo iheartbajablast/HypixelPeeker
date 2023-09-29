@@ -1,6 +1,6 @@
 
 # Hypixel Peeker
-by [@retrodotdevv](https://www.github.com/retrodotdevv) and [@z0mbie_w0lf](https://www.github.com/z0mbiewolf)
+by [@retrodotdevv](https://www.github.com/retrodotdevv) and [@z0mbiewolf](https://www.github.com/z0mbiewolf)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)![Discord](https://img.shields.io/discord/1156750728279367691?label=Discord&color=%23454FBF%20)
 
@@ -22,7 +22,7 @@ I have started on a Skyblock Peeker app.
 ## Authors
 
 - [@retrodotdevv](https://www.github.com/retrodotdevv)
-- [@z0mbie_w0lf](https://www.github.com/z0mbiewolf)
+- [@z0mbiewolf](https://www.github.com/z0mbiewolf)
 
 ## Features
 
@@ -33,7 +33,7 @@ I have started on a Skyblock Peeker app.
 
 ## Support
 
-For support, contact retrodotexe on Discord!
+For support, contact retrodotexe on Discord
 
 
 ## License
