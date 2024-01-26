@@ -1,5 +1,6 @@
 
 # Hypixel Peeker
+## Unabandoned for now
 by [@retrodotdevv](https://www.github.com/retrodotdevv) and [@z0mbiewolf](https://www.github.com/z0mbiewolf)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)![Discord](https://img.shields.io/discord/1156750728279367691?label=Discord&color=%23454FBF%20) ![DevelopmentStatus](https://img.shields.io/badge/Development-ALPHA-red) ![GitHub Repo stars](https://img.shields.io/github/stars/retroDOTdevv/HypixelPeeker?color=yellow) ![GitHub all releases](https://img.shields.io/github/downloads/retroDOTdevv/HypixelPeeker/total)
